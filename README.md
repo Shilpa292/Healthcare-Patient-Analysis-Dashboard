@@ -5,7 +5,7 @@ This project analyzes healthcare patient data to identify trends in admissions, 
 
 ## Key Insights
 - The majority of patients belong to the 36–65 age group.
-- Emergency and urgent admissions contribute a large portion of hospital admissions.
+- Elective and Emergency admissions represent the highest volume of hospital traffic,while urgent admissions are the least frequent.
 - Cancer and Asthma are the primary medical conditions affecting the patient population,followed by Obesity and Diabetes.
 - Total hospital revenue generated is 46.39M.
 ## Dashboard Preview

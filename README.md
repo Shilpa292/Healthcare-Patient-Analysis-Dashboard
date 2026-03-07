@@ -9,4 +9,4 @@ This project analyzes healthcare patient data to identify trends in admissions, 
 - Chronic diseases like Diabetes and Hypertension are common among patients.
 - Total hospital revenue generated is 46.39M.
 ## Dashboard Preview
-![Healthcare Dashboard](Screenshot%20of%20the%20dashboard%20of%20healthcare%20patient%20analysis.png)
+![Healthcare Dashboard](healthcare_dashboard.png)
